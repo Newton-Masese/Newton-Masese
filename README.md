@@ -19,7 +19,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+  <a href="https://linkedin.com/in/newton-masese-0288a422b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
   <img src="https://komarev.com/ghpvc/?username=newton-masese&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
